@@ -1,2 +1,0 @@
-# tempo-random-test
-tempo
